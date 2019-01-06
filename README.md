@@ -32,5 +32,8 @@ Cons of Solution:
 
 Sample output screenshot:
 ----
-
 https://github.com/aravindprasad90/Classic-Cookie-Challenge/blob/master/Sample-output-screensot.png 
+
+Youtube Video Link:
+--
+https://youtu.be/hA35ELmZVd0 
