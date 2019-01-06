@@ -18,7 +18,7 @@ Time Complexity of Solution:
 O(N), N is number of elements in matrix
 
 Pros of Solution:
-1) Optimized usage of space (only 1 array used). 
+1) Optimized usage of space (No new Data structure used. Input Matrix is itslef modified). 
 
 Cons of Solution:
 1) A matrix member may be value-checked more than once. 
