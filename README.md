@@ -14,10 +14,13 @@ Solution Approach:
 
 Code - https://github.com/aravindprasad90/Classic-Cookie-Challenge/blob/master/matrix.c 
 
+Time Complexity of Solution:
+O(N), N is number of elements in matrix
+
 Pros of Solution:
-Optimized usage of space (only 1 array used). 
+1) Optimized usage of space (only 1 array used). 
 
 Cons of Solution:
-1) A array/matrix member may be walked through more than once. 
+1) A matrix member may be value-checked more than once. 
 2) Optimizations in arguments could be possible, Usage of C++ class for it could be more readable and maintainable.
 
