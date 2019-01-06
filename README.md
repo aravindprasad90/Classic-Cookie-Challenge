@@ -13,8 +13,9 @@ Solution Approach:
 4) We will continue this until we reach a element wit no adjacent "1". 
 5) The steps 2,3 and 4 is repeated for each element in matrix.  
 
-Code - https://github.com/aravindprasad90/Classic-Cookie-Challenge/blob/master/matrix.c 
+Code :
 ----
+https://github.com/aravindprasad90/Classic-Cookie-Challenge/blob/master/matrix.c 
 
 Time Complexity of Solution:
 ----
