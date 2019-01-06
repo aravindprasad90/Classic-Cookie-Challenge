@@ -23,7 +23,7 @@ O(N), N is number of elements in matrix
 
 Pros of Solution:
 ----
-1) Optimized usage of space (No new Data structure used. Input Matrix is itslef modified). 
+1) Optimized usage of space (No new Data structure used. Input Matrix is itself modified). 
 
 Cons of Solution:
 ---
