@@ -24,3 +24,4 @@ Cons of Solution:
 1) A matrix member may be value-checked more than once. 
 2) Optimizations in arguments could be possible, Usage of C++ class for it could be more readable and maintainable.
 
+Sample output screenshot:
