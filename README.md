@@ -25,3 +25,4 @@ Cons of Solution:
 2) Optimizations in arguments could be possible, Usage of C++ class for it could be more readable and maintainable.
 
 Sample output screenshot:
+https://github.com/aravindprasad90/Classic-Cookie-Challenge/blob/master/Sample-output-screensot.png 
