@@ -1,8 +1,7 @@
 # Classic Cookie Challenge
 
 Problem:
-As per my understanding, we will be given a matrix of variable rows and columns. We need to find the 1s that are vertically or horizontally adjacent (not diagonally). 
-And with adjacent 1s, we need to form a line. Answer would be an array of sizes of all lines provided in input matrix. 
+We will be given a matrix of variable rows and columns. We need to find the 1s that are vertically or horizontally adjacent (not diagonally). And with adjacent 1s, we need to form a line. Answer would be an array of sizes of all lines provided in input matrix. 
 Note: Answer need not be in any particular order and no restrictions are placed. 
 
 Solution Approach:
